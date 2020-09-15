@@ -1,0 +1,8 @@
+name: MiniGame
+version: ${project.version}
+main: com.lss233.minigame.MiniGame
+api-version: 1.12.2
+authors: [ Lss233 ]
+softdepend:
+  - SimplestGUI
+  - ProtocolLib
